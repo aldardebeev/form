@@ -1,0 +1,6 @@
+form:
+  title: "Title"
+  firstname: "First Name"
+  lastname: "Last Name"
+  description: "Description"
+  submit: "Submit"

@@ -1,0 +1,6 @@
+form:
+  title: "Форма"
+  firstname: "Как звать"
+  lastname: "Чей будешь"
+  description: "Расскажи еще чего-то"
+  submit: "Послать"

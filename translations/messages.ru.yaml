@@ -1,0 +1,6 @@
+form:
+  title: "Заглавие"
+  firstname: "Имя"
+  lastname: "Фамилия"
+  description: "Описание"
+  submit: "Отправить"
